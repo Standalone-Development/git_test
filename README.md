@@ -1,0 +1,1 @@
+This is Standalone_Developers first project!
